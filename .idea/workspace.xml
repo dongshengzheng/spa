@@ -2,31 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="43078a70-1505-4a41-8af6-8d3737ca41b0" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/chat.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/crud.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/routes.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/user.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/package.json" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/css/spa.avtr.css" afterPath="$PROJECT_DIR$/public/css/spa.avtr.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/css/spa.chat.css" afterPath="$PROJECT_DIR$/public/css/spa.chat.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/css/spa.css" afterPath="$PROJECT_DIR$/public/css/spa.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/css/spa.shell.css" afterPath="$PROJECT_DIR$/public/css/spa.shell.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/js/jq/jquery-1.9.1.js" afterPath="$PROJECT_DIR$/public/js/jq/jquery-1.9.1.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/js/jq/jquery.event.gevent-0.1.9.js" afterPath="$PROJECT_DIR$/public/js/jq/jquery.event.gevent-0.1.9.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/js/jq/jquery.event.ue-0.3.2.js" afterPath="$PROJECT_DIR$/public/js/jq/jquery.event.ue-0.3.2.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/js/jq/jquery.uriAnchor-1.1.3.js" afterPath="$PROJECT_DIR$/public/js/jq/jquery.uriAnchor-1.1.3.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/js/jq/taffydb-2.6.2.js" afterPath="$PROJECT_DIR$/public/js/jq/taffydb-2.6.2.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/js/spa.avtr.js" afterPath="$PROJECT_DIR$/public/js/spa.avtr.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/js/spa.chat.js" afterPath="$PROJECT_DIR$/public/js/spa.chat.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/js/spa.data.js" afterPath="$PROJECT_DIR$/public/js/spa.data.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/js/spa.fake.js" afterPath="$PROJECT_DIR$/public/js/spa.fake.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/js/spa.js" afterPath="$PROJECT_DIR$/public/js/spa.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/js/spa.model.js" afterPath="$PROJECT_DIR$/public/js/spa.model.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/js/spa.shell.js" afterPath="$PROJECT_DIR$/public/js/spa.shell.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/js/spa.util.js" afterPath="$PROJECT_DIR$/public/js/spa.util.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/js/spa.util_b.js" afterPath="$PROJECT_DIR$/public/js/spa.util_b.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/spa.html" afterPath="$PROJECT_DIR$/public/spa.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -197,12 +172,12 @@
       <updated>1500460980901</updated>
       <workItem from="1500460983141" duration="14698000" />
       <workItem from="1502158608965" duration="33147000" />
-      <workItem from="1502417467327" duration="6739000" />
+      <workItem from="1502417467327" duration="6815000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="54584000" />
+    <option name="totallyTimeSpent" value="54660000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -215,7 +190,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-11" y="-11" width="1942" height="1042" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.29517752" sideWeight="0.61809814" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -223,7 +197,7 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3297619" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.47619048" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.47619048" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.29517752" sideWeight="0.38190183" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
