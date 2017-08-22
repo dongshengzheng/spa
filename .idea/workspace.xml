@@ -1,7 +1,34 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="43078a70-1505-4a41-8af6-8d3737ca41b0" name="Default" comment="" />
+    <list default="true" id="43078a70-1505-4a41-8af6-8d3737ca41b0" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/chat.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/crud.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/routes.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/user.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/package.json" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/css/spa.avtr.css" afterPath="$PROJECT_DIR$/public/css/spa.avtr.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/css/spa.chat.css" afterPath="$PROJECT_DIR$/public/css/spa.chat.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/css/spa.css" afterPath="$PROJECT_DIR$/public/css/spa.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/css/spa.shell.css" afterPath="$PROJECT_DIR$/public/css/spa.shell.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/js/jq/jquery-1.9.1.js" afterPath="$PROJECT_DIR$/public/js/jq/jquery-1.9.1.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/js/jq/jquery.event.gevent-0.1.9.js" afterPath="$PROJECT_DIR$/public/js/jq/jquery.event.gevent-0.1.9.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/js/jq/jquery.event.ue-0.3.2.js" afterPath="$PROJECT_DIR$/public/js/jq/jquery.event.ue-0.3.2.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/js/jq/jquery.uriAnchor-1.1.3.js" afterPath="$PROJECT_DIR$/public/js/jq/jquery.uriAnchor-1.1.3.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/js/jq/taffydb-2.6.2.js" afterPath="$PROJECT_DIR$/public/js/jq/taffydb-2.6.2.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/js/spa.avtr.js" afterPath="$PROJECT_DIR$/public/js/spa.avtr.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/js/spa.chat.js" afterPath="$PROJECT_DIR$/public/js/spa.chat.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/js/spa.data.js" afterPath="$PROJECT_DIR$/public/js/spa.data.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/js/spa.fake.js" afterPath="$PROJECT_DIR$/public/js/spa.fake.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/js/spa.js" afterPath="$PROJECT_DIR$/public/js/spa.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/js/spa.model.js" afterPath="$PROJECT_DIR$/public/js/spa.model.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/js/spa.shell.js" afterPath="$PROJECT_DIR$/public/js/spa.shell.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/js/spa.util.js" afterPath="$PROJECT_DIR$/public/js/spa.util.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/js/spa.util_b.js" afterPath="$PROJECT_DIR$/public/js/spa.util_b.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/spa.html" afterPath="$PROJECT_DIR$/public/spa.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -17,32 +44,34 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="450">
-      <file leaf-file-name="jquery-1.9.1.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/js/jq/jquery-1.9.1.js">
+      <file leaf-file-name="chat.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lib/chat.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="27" column="20" lean-forward="false" selection-start-line="27" selection-start-column="20" selection-end-line="27" selection-end-column="20" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="spa.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/spa.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="440">
-              <caret line="30" column="4" lean-forward="false" selection-start-line="30" selection-start-column="4" selection-end-line="30" selection-end-column="4" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="spa.chat.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/css/spa.chat.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-330">
+            <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="package.json" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/package.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="220">
+              <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="app.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -122,22 +151,6 @@
               <item name="spa" type="b2602c69:ProjectViewProjectNode" />
               <item name="spa" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="spa" type="b2602c69:ProjectViewProjectNode" />
-              <item name="spa" type="462c0819:PsiDirectoryNode" />
-              <item name="css" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="spa" type="b2602c69:ProjectViewProjectNode" />
-              <item name="spa" type="462c0819:PsiDirectoryNode" />
-              <item name="js" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="spa" type="b2602c69:ProjectViewProjectNode" />
-              <item name="spa" type="462c0819:PsiDirectoryNode" />
-              <item name="js" type="462c0819:PsiDirectoryNode" />
-              <item name="jq" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -184,12 +197,12 @@
       <updated>1500460980901</updated>
       <workItem from="1500460983141" duration="14698000" />
       <workItem from="1502158608965" duration="33147000" />
-      <workItem from="1502417467327" duration="4541000" />
+      <workItem from="1502417467327" duration="6739000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="52386000" />
+    <option name="totallyTimeSpent" value="54584000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -202,14 +215,15 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-11" y="-11" width="1942" height="1042" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.29517752" sideWeight="0.61809814" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3297619" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.47619048" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.47619048" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.29517752" sideWeight="0.38190183" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -223,6 +237,32 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
@@ -290,9 +330,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="n#!!doc" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -386,8 +424,34 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/spa.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="440">
-          <caret line="30" column="4" lean-forward="false" selection-start-line="30" selection-start-column="4" selection-end-line="30" selection-end-column="4" />
+        <state relative-caret-position="382">
+          <caret line="37" column="42" lean-forward="true" selection-start-line="37" selection-start-column="42" selection-end-line="37" selection-end-column="42" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/chat.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
           <folding />
         </state>
       </provider>
